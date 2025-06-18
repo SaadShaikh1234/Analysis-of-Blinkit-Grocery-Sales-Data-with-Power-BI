@@ -18,7 +18,7 @@ BlinkIT Grocery Data includes key retail metrics across multiple business dimens
 
 ## 🖼️ Dashboard Snapshot
 
-![Screenshot (1)](https://github.com/user-attachments/assets/5f9b49ae-5050-42d6-9b1c-1720e3780306)
+![image](https://github.com/user-attachments/assets/144dded2-3dcf-424d-8189-993cceeacd25)
 
 ---
 
